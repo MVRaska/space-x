@@ -1,0 +1,12 @@
+.navtabs-wrapper {
+    display: flex;
+    justify-content: space-between;
+    margin: auto 20px;
+    font-size: 32px;
+    font-weight: 600;
+}
+
+.navtabs-wrapper a {
+    color: white;
+    text-decoration: none;
+  }
